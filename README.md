@@ -17,10 +17,3 @@ Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do ci
 
 <img src="/imagem.jpg" width="550">
 
-
-Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
-
-    cd /home/iot
-    git clone https://github.com/arnaldojr/templatenac
-    cd templatenac
-    ls
