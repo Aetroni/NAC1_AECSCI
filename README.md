@@ -3,7 +3,7 @@ NAC1 de AI ENGENEERING, COGNITIVE AND SEMANTIC COMPUTATION &amp; IOT
 
 Adelson Petronilho RM:83354
 
-André Zaidan RM:83697** 
+André Zaidan RM:83697
 
 **Turma: 4SIS**
 
