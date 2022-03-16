@@ -13,7 +13,7 @@ Nesta NAC vamos desenvolver um projeto de visão computacional para a indústria
 
 ## Diagrama do projeto
 
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
+Imagem ao final do código 
 
 <img src="/imagem.png" width="550">
 
